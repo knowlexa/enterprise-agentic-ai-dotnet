@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceMcp.Client", "Financ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceMcp.Server", "FinanceMcp.Server\FinanceMcp.Server.csproj", "{67AA0051-9B5C-F8EF-1EA7-BA5F4914A370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceAgent.Api", "FinanceAgent.Api\FinanceAgent.Api.csproj", "{C68BC26A-B0F2-E80B-9281-1AF95840BFD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceAgents.Api", "FinanceAgent.Api\FinanceAgents.Api.csproj", "{C68BC26A-B0F2-E80B-9281-1AF95840BFD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
