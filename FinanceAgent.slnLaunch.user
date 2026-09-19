@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FinanceAgent.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\FinanceMcp.Server\\FinanceMcp.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
