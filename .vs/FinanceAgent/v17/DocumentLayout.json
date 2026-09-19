@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E6682-F46A-2935-6AEC-7C17B6A90EAB}|..\\FinanceMcp.Server\\FinanceMcp.Server.csproj|c:\\users\\vinay\\source\\repos\\financemcp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\services\\foundryllmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:services\\foundryllmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\agents\\orchestratoragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:agents\\orchestratoragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E6682-F46A-2935-6AEC-7C17B6A90EAB}|..\\FinanceMcp.Server\\FinanceMcp.Server.csproj|c:\\users\\vinay\\source\\repos\\financemcp.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E6682-F46A-2935-6AEC-7C17B6A90EAB}|..\\FinanceMcp.Server\\FinanceMcp.Server.csproj|c:\\users\\vinay\\source\\repos\\financemcp.server\\tools\\employeetools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\services\\illmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:services\\illmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\models\\agenttaskresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:models\\agenttaskresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\services\\employeeagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:services\\employeeagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\agents\\employeeagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:agents\\employeeagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\services\\employeeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:services\\employeeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\models\\agentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:models\\agentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\agents\\financesagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:agents\\financesagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\agents\\iagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:agents\\iagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF069C9-FC26-E034-A7DD-732FB3B59004}|..\\FinanceMcp.Client\\FinanceMcp.Client.csproj|c:\\users\\vinay\\source\\repos\\financemcp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\services\\multiagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:services\\multiagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\agents\\ragagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:agents\\ragagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E6682-F46A-2935-6AEC-7C17B6A90EAB}|..\\FinanceMcp.Server\\FinanceMcp.Server.csproj|c:\\users\\vinay\\source\\repos\\financemcp.server\\clients\\departmentapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\services\\mcpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:services\\mcpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E6682-F46A-2935-6AEC-7C17B6A90EAB}|..\\FinanceMcp.Server\\FinanceMcp.Server.csproj|c:\\users\\vinay\\source\\repos\\financemcp.server\\clients\\employeeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|c:\\users\\vinay\\source\\repos\\financeagent.api\\financeagent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0896D05E-E7F2-8622-C268-403C8AA01B69}|FinanceAgent.Api.csproj|solutionrelative:financeagent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E6682-F46A-2935-6AEC-7C17B6A90EAB}|..\\FinanceMcp.Server\\FinanceMcp.Server.csproj|c:\\users\\vinay\\source\\repos\\financemcp.server\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\FinanceMcp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\appsettings.json",
+              "RelativeToolTip": "..\\FinanceMcp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-19T11:53:04.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-19T11:52:44.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "Controllers\\AgentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:49:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoundryLlmService.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\FoundryLlmService.cs",
+              "RelativeDocumentMoniker": "Services\\FoundryLlmService.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\FoundryLlmService.cs",
+              "RelativeToolTip": "Services\\FoundryLlmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T11:08:41.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\EmployeeAgentService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeAgentService.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\EmployeeAgentService.cs",
+              "RelativeToolTip": "Services\\EmployeeAgentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:01:24.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrchestratorAgent.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\OrchestratorAgent.cs",
+              "RelativeDocumentMoniker": "Agents\\OrchestratorAgent.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\OrchestratorAgent.cs",
+              "RelativeToolTip": "Agents\\OrchestratorAgent.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAYwCUBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:28:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeTools.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Tools\\EmployeeTools.cs",
+              "RelativeDocumentMoniker": "..\\FinanceMcp.Server\\Tools\\EmployeeTools.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Tools\\EmployeeTools.cs",
+              "RelativeToolTip": "..\\FinanceMcp.Server\\Tools\\EmployeeTools.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:34:50.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILlmService.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\ILlmService.cs",
+              "RelativeDocumentMoniker": "Services\\ILlmService.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\ILlmService.cs",
+              "RelativeToolTip": "Services\\ILlmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T11:28:47.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\FinanceMcp.Server\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\FinanceMcp.Server\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:35:21.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgentTaskResult.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Models\\AgentTaskResult.cs",
+              "RelativeDocumentMoniker": "Models\\AgentTaskResult.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Models\\AgentTaskResult.cs",
+              "RelativeToolTip": "Models\\AgentTaskResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T11:07:55.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeAgent.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\EmployeeAgent.cs",
+              "RelativeDocumentMoniker": "Agents\\EmployeeAgent.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\EmployeeAgent.cs",
+              "RelativeToolTip": "Agents\\EmployeeAgent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:48:02.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\EmployeeApiClient.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeApiClient.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\EmployeeApiClient.cs",
+              "RelativeToolTip": "Services\\EmployeeApiClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:52:43.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Models\\AgentRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AgentRequest.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Models\\AgentRequest.cs",
+              "RelativeToolTip": "Models\\AgentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:50:11.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAgent.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\IAgent.cs",
+              "RelativeDocumentMoniker": "Agents\\IAgent.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\IAgent.cs",
+              "RelativeToolTip": "Agents\\IAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:50:56.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinancesAgent.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\FinancesAgent.cs",
+              "RelativeDocumentMoniker": "Agents\\FinancesAgent.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\FinancesAgent.cs",
+              "RelativeToolTip": "Agents\\FinancesAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:48:18.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinanceController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\FinanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FinanceController.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\FinanceController.cs",
+              "RelativeToolTip": "Controllers\\FinanceController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:24:12.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:47:46.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FinanceMcp.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Client\\Program.cs",
+              "RelativeToolTip": "..\\FinanceMcp.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T16:30:01.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MultiAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\MultiAgentService.cs",
+              "RelativeDocumentMoniker": "Services\\MultiAgentService.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\MultiAgentService.cs",
+              "RelativeToolTip": "Services\\MultiAgentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:49:18.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RagAgent.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\RagAgent.cs",
+              "RelativeDocumentMoniker": "Agents\\RagAgent.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Agents\\RagAgent.cs",
+              "RelativeToolTip": "Agents\\RagAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:48:33.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RagService.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\RagService.cs",
+              "RelativeDocumentMoniker": "Services\\RagService.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\RagService.cs",
+              "RelativeToolTip": "Services\\RagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:49:00.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:12:39.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Clients\\DepartmentApiClient.cs",
+              "RelativeDocumentMoniker": "..\\FinanceMcp.Server\\Clients\\DepartmentApiClient.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Clients\\DepartmentApiClient.cs",
+              "RelativeToolTip": "..\\FinanceMcp.Server\\Clients\\DepartmentApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:36:33.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FinanceAgent.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\FinanceAgent.Api.csproj",
+              "RelativeDocumentMoniker": "FinanceAgent.Api.csproj",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\FinanceAgent.Api.csproj",
+              "RelativeToolTip": "FinanceAgent.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-13T10:12:34.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "McpClientService.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\McpClientService.cs",
+              "RelativeDocumentMoniker": "Services\\McpClientService.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceAgent.Api\\Services\\McpClientService.cs",
+              "RelativeToolTip": "Services\\McpClientService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:01:02.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Clients\\EmployeeApiClient.cs",
+              "RelativeDocumentMoniker": "..\\FinanceMcp.Server\\Clients\\EmployeeApiClient.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Clients\\EmployeeApiClient.cs",
+              "RelativeToolTip": "..\\FinanceMcp.Server\\Clients\\EmployeeApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:12:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "..\\FinanceMcp.Server\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\vinay\\source\\repos\\FinanceMcp.Server\\Models\\Department.cs",
+              "RelativeToolTip": "..\\FinanceMcp.Server\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:35:38.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
