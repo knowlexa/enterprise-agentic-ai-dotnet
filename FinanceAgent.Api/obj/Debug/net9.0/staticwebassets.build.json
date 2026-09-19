@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f5na14rrkWQuS06kO2gk1fJrMi9DC5MHYOupCjxswUs=",
+  "Source": "FinanceAgent.Api",
+  "BasePath": "_content/FinanceAgent.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
