@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FinanceAgent/CopilotIndices/17.13.439.2385
+/.vs/FinanceAgent/FileContentIndex
+/FinanceMcp.Client/bin/Debug/net9.0
+/FinanceMcp.Client/obj
+/FinanceMcp.Server/bin/Debug/net9.0
+/FinanceMcp.Server/obj
+/.vs/enterprise-agentic-ai/v17
